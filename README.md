@@ -24,3 +24,5 @@ Create a function that generates random passwords and console.log() that passwor
 
 create a file named email-sender  
 npm install nodemailer (https://www.w3schools.com/nodejs/nodejs_email.asp)
+
+I just did
